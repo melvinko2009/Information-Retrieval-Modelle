@@ -1,0 +1,1 @@
+In dieses Verzeichnis müssen die vectors.txt und vocab.txt Datei von https://www.deepset.ai/german-word-embeddings

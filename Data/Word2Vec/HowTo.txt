@@ -1,0 +1,1 @@
+In dieses Verzeichnis muss die Word2Vec-Datei mit den deutschen Wort-Embeddings von https://fasttext.cc/docs/en/crawl-vectors.html
